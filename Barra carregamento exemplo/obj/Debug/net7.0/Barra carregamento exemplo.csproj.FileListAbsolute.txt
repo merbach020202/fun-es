@@ -1,0 +1,15 @@
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\bin\Debug\net7.0\Barra carregamento exemplo.exe
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\bin\Debug\net7.0\Barra carregamento exemplo.deps.json
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\bin\Debug\net7.0\Barra carregamento exemplo.runtimeconfig.json
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\bin\Debug\net7.0\Barra carregamento exemplo.dll
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\bin\Debug\net7.0\Barra carregamento exemplo.pdb
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.dll
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\refint\Barra carregamento exemplo.dll
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.pdb
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\Barra carregamento exemplo.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Barra carregamento exemplo\obj\Debug\net7.0\ref\Barra carregamento exemplo.dll
