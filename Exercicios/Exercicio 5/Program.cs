@@ -25,7 +25,7 @@ if (numeroDigitado == 1)
 else
 {
     Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine($"Por favor reinicie o console e digite o número correto!");
+    Console.WriteLine($"O console será resetado, digite o número correto!");
     Console.ResetColor();
 }
 

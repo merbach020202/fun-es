@@ -1,6 +1,6 @@
-﻿float[] numeros = new float[10];
+﻿float[] numeros = new float[3];
 
-for (int i = 1; i < 10; i++)
+for (int i = 0; i < 3; i++)
 {
     Console.WriteLine($"Digite um número: ");
     numeros[i] = float.Parse(Console.ReadLine());
